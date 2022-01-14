@@ -1,10 +1,11 @@
-####################################
+################################################################
 # Author : ToxicNoob
 # GitHub : https://github.com/Toxic-Noob/
 # Coder   : HunterSl4d3
-# You Have No Permission To Copy Any Codes
+# You Have No Permission To Copy Any Codes From This Script
 # Coping Others Code Will Not Make You a Coder
-####################################
+# But You're Welcomed To Take Any Knowledge From This Script
+################################################################
 
 import time, sys, os, re
 import requests
